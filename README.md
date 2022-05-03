@@ -13,8 +13,8 @@ Hi, I'm an engineer who has multi-discipline knowledge. I've developed many mobi
 * 📱   Look at [my apps](https://play.google.com/store/apps/developer?id=Hisario&hl=tr&gl=US)
 * ⚡  I'm used many languages and many frameworks, Some of them used for only one project or used intensely but not used anymore. I'm focused on python, opencv, and flutter.
 
-### Skills
-
+Technologies I've used
+----------------------
 <p align="left">
   
 Languages:<br>
@@ -23,7 +23,7 @@ Languages:<br>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="filter: grayscale(100%)" /></a>
  <br/>
 Computer Vision:<br>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164314-00ac05d3-dd70-4155-8708-01bdda6df6e6.png" width="36" height="36" alt="Tensorflow" /></a>
