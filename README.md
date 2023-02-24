@@ -63,6 +63,20 @@ Other:<br>
   
 </p>
 
+<p>&nbsp;<a href="https://github.com/trbasoglu#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trbasoglu&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="trbasoglu" /></a>
+<a href="https://github.com/trbasoglu#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trbasoglu&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="trbasoglu" /></a>
+</p> 
+<br>
+<br />
+
+<p><a href="https://github.com/trbasoglu#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=trbasoglu&theme=nightowl#gh-dark-mode-only" alt="trbasoglu"/></a>
+<a href="https://github.com/trbasoglu#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=trbasoglu&theme=vue#gh-light-mode-only" alt="trbasoglu"/></a></p>
+<br/>
+<br />
+
+<p><a href="https://github.com/trbasoglu#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trbasoglu&theme=nightowl#gh-dark-mode-only" alt="trbasoglu" /></a>
+<a href="https://github.com/trbasoglu#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trbasoglu&theme=vue#gh-light-mode-only" alt="trbasoglu" /></a></p>
+<br/>
 
 
 ### Socials
